@@ -1,0 +1,22 @@
+{
+  "name": "marine-rate-calculation",
+  "version": "1.0.0",
+  "description": "Marine rate calculation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinpaout/marine-rate-calculation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinpaout/marine-rate-calculation/issues"
+  },
+  "homepage": "https://github.com/sinpaout/marine-rate-calculation#readme",
+  "dependencies": {
+    "bulma": "^0.6.2"
+  }
+}
