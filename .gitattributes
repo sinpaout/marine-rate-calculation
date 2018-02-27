@@ -1,0 +1,27 @@
+*               text=auto
+
+*.js             text eol=lf
+*.jsx            text eol=lf
+*.json           text eol=lf
+
+*.less           text eol=lf
+*.css           text eol=lf
+
+*.txt            text eol=lf
+*.md           text eol=lf
+*.html           text eol=lf
+
+*.ejs           text eol=lf
+*.hbs           text eol=lf
+*.jade           text eol=lf
+*.pug           text eol=lf
+
+.babelrc           text eol=lf
+.editorconfig           text eol=lf
+.eslintrc           text eol=lf
+.nvmrc           text eol=lf
+
+.gitattributes text eol=lf
+.gitignore text eol=lf
+
+*.sh             text eol=lf

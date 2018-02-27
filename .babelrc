@@ -1,0 +1,28 @@
+{
+  "presets": [
+    "env",
+    "react",
+    "flow"
+  ],
+  "plugins": [
+    "transform-runtime",
+    "react-html-attrs",
+    "transform-class-properties",
+    "transform-object-rest-spread",
+    "transform-flow-strip-types"
+  ],
+  "env": {
+    "test": {
+      "presets": [
+        "env",
+        "react",
+      ],
+      "plugins": [
+        "transform-runtime",
+        "react-html-attrs",
+        "transform-class-properties",
+        "transform-object-rest-spread",
+      ]
+    }
+  }
+}
